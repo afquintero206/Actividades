@@ -4,6 +4,7 @@ public class Deposito {
     private float diametro;
     private float altura;
     private String idDeposito;
+    private int = 10
 
     //Constructor sin parámetros auxiliar
     public Deposito () { //Lo que hace es llamar al constructor con parámetros pasándole valores vacíos
@@ -44,6 +45,6 @@ public class Deposito {
         float pi = 3.1416f; //Si no incluimos la f el compilador considera que 3.1416 es double
         capacidad = pi * (diametro/2) * (diametro/2) * altura;
         return capacidad;
-    }    
+    } 
 
 } //Cierre de la clase
