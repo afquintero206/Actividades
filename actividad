@@ -4,8 +4,13 @@ public class Deposito {
     private float diametro;
     private float altura;
     private String idDeposito;
+<<<<<<< HEAD
     private int = 10;
 
+=======
+    private int = 10; 
+    String = "a";
+>>>>>>> 9265de17b3c993ffa686ee0f12615d385fde88e5
     //Constructor sin parámetros auxiliar
     public Deposito () { //Lo que hace es llamar al constructor con parámetros pasándole valores vacíos
         this(0,0,"");            } //Cierre del constructor
