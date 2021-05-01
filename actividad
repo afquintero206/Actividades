@@ -4,6 +4,8 @@ public class Deposito {
     private float diametro;
     private float altura;
     private String idDeposito;
+    private int = 10;
+
     private int = 10; 
     String = "c";
     //Constructor sin parámetros auxiliar
