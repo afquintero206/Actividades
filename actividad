@@ -7,7 +7,7 @@ public class Deposito {
     private int = 10;
 
     private int = 10; 
-    String = "c";
+    String = "c";// cambio de variable 
     //Constructor sin parámetros auxiliar
     public Deposito () { //Lo que hace es llamar al constructor con parámetros pasándole valores vacíos
         this(0,0,"");            } //Cierre del constructor
